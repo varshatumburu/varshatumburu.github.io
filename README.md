@@ -1,2 +1,2 @@
-Hey this is varsha 
-this is my portfolio
+Hey, This is Varsha.
+This is my portfolio.
