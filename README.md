@@ -1,3 +1,3 @@
-Hey, This is Varsha.
-This is my portfolio. Just a trial :P
-Will update soon.
+## Hey, This is Varsha.
+Working on my personal website. <br>
+Will update soon :)
